@@ -1,5 +1,5 @@
 
-# Project Name: Project Performance Dashboard
+# Insights INC Project Performance Dashboard
 
 ## Overview
 This project aims to analyze and visualize the performance of various projects using data from multiple sources. The data includes project details such as timelines, application names, revenue, and delay reasons. The goal is to create an interactive dashboard that provides insights into project status, revenue breakdown, and performance across different verticals.
